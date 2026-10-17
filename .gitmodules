@@ -1,0 +1,27 @@
+[submodule "A2Tools-DPS-Meter"]
+	path = A2Tools-DPS-Meter
+	url = https://github.com/taengu/A2Tools-DPS-Meter.git
+[submodule "Aion-DPS-Meter"]
+	path = Aion-DPS-Meter
+	url = https://github.com/SkeeveAN/Aion-DPS-Meter.git
+[submodule "aion2pettracker"]
+	path = aion2pettracker
+	url = https://github.com/keytftw/aion2pettracker.git
+[submodule "aion2-cube-radar"]
+	path = aion2-cube-radar
+	url = https://github.com/dennisreichenberg/aion2-cube-radar.git
+[submodule "aion2_api"]
+	path = aion2_api
+	url = https://github.com/axsddlr/aion2_api.git
+[submodule "AetherDPS"]
+	path = AetherDPS
+	url = https://github.com/yykk62/AetherDPS.git
+[submodule "PichetMeter-Aion2-Multitool"]
+	path = PichetMeter-Aion2-Multitool
+	url = https://github.com/Pichetdechiasso/PichetMeter-Aion2-Multitool.git
+[submodule "AIon2-Dps-Meter"]
+	path = AIon2-Dps-Meter
+	url = https://github.com/Kuroukihime/AIon2-Dps-Meter.git
+[submodule "Aion2Flow"]
+	path = Aion2Flow
+	url = https://github.com/cloris-chan/Aion2Flow.git
